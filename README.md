@@ -8,6 +8,4 @@
 
 <h2 align="center">Portal: Wii U Edition</h2>
 
-<br>
-
-<h4 align="center">Portal: Wii U Edition is a remake of Portal & Portal 2 games on Wii U! Also play Portal 2 co-op and enjoy an unforgettable experience!</h2>
+<p align="center">Portal: Wii U Edition is a remake of Portal & Portal 2 games on Wii U! Also play Portal 2 co-op and enjoy an unforgettable experience!</p>
