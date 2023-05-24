@@ -4,8 +4,6 @@
   <a target="_blank" href="https://discord.gg/Cpm5nAEEzY"><img src="https://img.shields.io/static/v1?label=Discord&message=Join&color=5865F2&logo=discord&logoColor=white&style=flat"/></a>
 </p>
 
-<br>
-
 <h2 align="center">Portal: Wii U Edition</h2>
 
 <p align="center">Portal: Wii U Edition is a remake of Portal & Portal 2 games on Wii U! Also play Portal 2 co-op and enjoy an unforgettable experience!</p>
