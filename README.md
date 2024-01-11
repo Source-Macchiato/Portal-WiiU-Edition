@@ -6,4 +6,4 @@
 
 <h2 align="center">Portal: Wii U Edition</h2>
 
-<p align="center">Portal: Wii U Edition is a remake of Portal & Portal 2 games on Wii U! Also play Portal 2 co-op and enjoy an unforgettable experience!</p>
+<p align="center">Due to the fact that Portal 64 has been shut down we have made the decision to remove the downloads while waiting to find a solution</p>
